@@ -1,0 +1,14 @@
+.container {
+  display: flex;
+  justify-content: center;
+}
+.status{
+    text-align: center;
+    margin-top: 130px;
+}
+.success{
+    font-weight: bold;
+    font-size: 40px;
+    font-family: sans-serif;
+    margin-top: 10px;
+}
